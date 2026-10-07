@@ -1,0 +1,16 @@
+
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Û¯ä«‘4J$ddff2f8f-77f1-4d51-a14a-25619610a0f7
+	java:S100	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃÎœ¸8÷¯ä«‘4J$6c57fe9f-1b86-4a67-ae99-c1740e158229
+¡
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ú¯ä«‘4J$c1fd5b1d-d7b1-4bd6-90d8-3daa7e3a5b33
+ 
+java:S2273"^Move this call to "wait()" into a synchronized block to be sure the monitor on "this" is held.(ç£ŠM8°ä«‘4J$4838d749-9728-4d43-b31e-7f8b210245fd
+	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚¡ß—8„°ä«‘4J$0236e4ce-98ad-4e06-8d20-fd0ef413d013
+
+java:S1854"9Remove this useless assignment to local variable "value".(Çéğ„üÿÿÿÿ8åıä«‘4J$fa2b4123-b4d8-47b6-9b6c-7aa045d850d7
+ 
+java:S2273"^Move this call to "wait()" into a synchronized block to be sure the monitor on "this" is held.(ç£ŠM8ˆ°ä«‘4J$8b784118-1b88-41af-a7e9-55c6a4a90850
+r
+java:S1481"*Remove this unused "value" local variable.(Çéğ„üÿÿÿÿ8êıä«‘4J$b8974046-c8f7-4fd3-98b2-91706a0bd92f
+«
+java:S2273!"cMove this call to "notifyAll()" into a synchronized block to be sure the monitor on "this" is held.(µ˜©èùÿÿÿÿ8²˜ç«‘4J$67c98a4f-dc6e-455c-a717-01d856012089

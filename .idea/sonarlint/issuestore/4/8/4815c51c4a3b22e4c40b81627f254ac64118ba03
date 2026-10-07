@@ -1,0 +1,16 @@
+
+‘
+java:S1104"UMake available a static final constant or non-public and provide accessors if needed.(­σΛJ$e07c8cfd-1a09-430f-982a-f784e68483a9
+	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®Ό΄ύÿÿÿÿJ$25064697-34ed-4393-8f2a-9e2fea1ca9ad
+™
+java:S2273"^Move this call to "wait()" into a synchronized block to be sure the monitor on "this" is held.(η£MJ$eb81b05f-b793-4d24-97e3-4569f14e3e24
+u
+java:S2274":Remove this call to "wait" or move it into a "while" loop.(η£MJ$65c17f01-1fe6-4eea-9db1-140acd1edcec
+¤
+java:S2273"cMove this call to "notifyAll()" into a synchronized block to be sure the monitor on "this" is held.(µ©θωÿÿÿÿJ$88b907bc-abd1-4b7c-bf27-85cc246c5cb2
+™
+java:S2273"^Move this call to "wait()" into a synchronized block to be sure the monitor on "this" is held.(η£MJ$8d1c48c1-6e26-40cc-9f0f-fab56d7f14b2
+u
+java:S2274":Remove this call to "wait" or move it into a "while" loop.(η£MJ$b8b4f5e2-98f0-4ef4-b700-5072ad88f24d
+¤
+java:S2273"cMove this call to "notifyAll()" into a synchronized block to be sure the monitor on "this" is held.(µ©θωÿÿÿÿJ$ac88f007-c589-4fe9-8afd-74f71decd924
